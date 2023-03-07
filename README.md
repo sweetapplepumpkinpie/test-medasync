@@ -11,4 +11,4 @@ Let's assume the user name is `John`, then the `usersInfo` looks like:
 
 `usersInfo = { John: { start: null, end: null, treatments: 0 } }`
 
-If we meed `John` in the loop then define the action if it's start, end or treatment and update the values. In this case I implemented this feature.
+If we meet `John` in the loop then define the action if it's start, end or treatment and update the values. In this way I implemented this feature.
